@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I tell computers what to do, and sometimes they listen!
+I tell computers what to do, sometimes they listen!
 
 <!--
 **vrukshaliii/vrukshaliii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
